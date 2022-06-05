@@ -20,6 +20,7 @@ body{background-color: #ededed;}
    background: rgb(87, 43, 43);
    margin-left: 10%;
   margin-top: 1%;
+  padding: 2%;
  position: absolute;
  border-radius: 8%;
  }
@@ -64,7 +65,7 @@ body{background-color: #ededed;}
   height: 60%;
   background: rgb(33, 228, 163);
   margin-left: 12%;
-   margin-top: 30%;
+   margin-top: 35%;
    position: absolute;
    border-radius: 2%;
   }
@@ -82,7 +83,7 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(33, 228, 163);
     margin-left: 12%;
-    margin-top: 120%;
+    margin-top: 135%;
     position: absolute;
     border-radius: 2%;
    }
@@ -91,7 +92,7 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(33, 228, 163);
     margin-left: 12%;
-    margin-top: 130%;
+    margin-top: 145%;
     position: absolute;
     border-radius: 2%;
    }
