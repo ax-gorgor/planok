@@ -9,7 +9,7 @@ body{background-color: #ededed;}
 
 
 .principal{max-width: 100%;
-           min-height: 650px;
+           min-height: 600px;
            margin: 1%;
            background: rgb(150, 150, 150);
           position: relative;
@@ -83,7 +83,7 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(33, 228, 163);
     margin-left: 12%;
-    margin-top: 135%;
+    margin-top: 125%;
     position: absolute;
     border-radius: 2%;
    }
@@ -92,7 +92,7 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(33, 228, 163);
     margin-left: 12%;
-    margin-top: 145%;
+    margin-top: 135%;
     position: absolute;
     border-radius: 2%;
    }
