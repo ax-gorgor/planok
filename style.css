@@ -1,0 +1,239 @@
+*{margin: 0;
+  padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;}
+
+ 
+     
+body{background-color: #ededed;}
+
+
+.principal{max-width: 100%;
+           min-height: 650px;
+           margin: 1%;
+           background: rgb(150, 150, 150);
+          position: relative;
+        }
+
+.heladera{width: 15%;
+   height: 3%;
+   background: rgb(87, 43, 43);
+   margin-left: 10%;
+  margin-top: 1%;
+ position: absolute;
+ border-radius: 8%;
+ }
+
+.fondo{width: 20%;
+       height: 3%;
+       background: black;
+       margin-left: 30%;
+      margin-top: 1%;
+      position: absolute;
+      border-radius: 8%;
+     }
+
+.banio{width: 30%;
+   height: 3%;
+   background: rgb(145, 34, 95);
+   margin-left: 60%;
+   margin-top: 1%;
+   position: absolute;
+   border-radius: 8%;
+   }
+
+.taller{width: 40%;
+        height: 12%;
+        background: rgb(187, 103, 103);
+        margin-left: 12%;
+        margin-top: 10%;
+        position: absolute;
+        border-radius: 8%;
+       }
+
+.estanteriaDerecha{width: 6%;
+                   height: 92%;
+                   background: rgb(33, 228, 163);
+                   margin-left: 90%;
+                   margin-top: 8%;
+                   position: absolute;
+                   border-radius: 2%;
+                  }
+
+.mesa{width: 55%;
+  height: 60%;
+  background: rgb(33, 228, 163);
+  margin-left: 12%;
+   margin-top: 30%;
+   position: absolute;
+   border-radius: 2%;
+  }
+
+  .estanteriaIzquierda{width: 6%;
+    height: 92%;
+    background: rgb(33, 228, 163);
+    margin-left: 2%;
+    margin-top: 8%;
+    position: absolute;
+    border-radius: 2%;
+   }
+
+   .estanteriaOficina1{width: 60%;
+    height: 4%;
+    background: rgb(33, 228, 163);
+    margin-left: 12%;
+    margin-top: 120%;
+    position: absolute;
+    border-radius: 2%;
+   }
+
+   .estanteriaOficina2{width: 60%;
+    height: 4%;
+    background: rgb(33, 228, 163);
+    margin-left: 12%;
+    margin-top: 130%;
+    position: absolute;
+    border-radius: 2%;
+   }
+  
+   .mesaPrincipalDerecha1 {width: 20%;
+    height: 20%;
+    background: rgb(33, 53, 228);
+    margin-left: 78%;
+    margin-top: 40%;
+    position: absolute;
+    border-radius: 2%;
+   }
+   .mesaPrincipalDerecha2 {width: 20%;
+    height: 20%;
+    background: rgb(228, 33, 59);
+    margin-left: 78%;
+    margin-top: 75%;
+    position: absolute;
+    border-radius: 2%;
+   }
+
+   .mesaPrincipalDerecha3 {width: 20%;
+    height: 20%;
+    background: rgb(225, 228, 33);
+    margin-left: 78%;
+    margin-top: 110%;
+    position: absolute;
+    border-radius: 2%;
+   }
+
+ /*  @media screen and (max-width:1360px){
+   .principal{max-width: 100%;
+              min-height: 650px;
+              margin: 10px;
+              background: rgb(150, 150, 150);
+             position: relative;
+           }
+   
+   .heladera{width: 15%;
+      height: 3%;
+      background: rgb(87, 43, 43);
+      margin-left: 10%;
+     margin-top: 10px;
+    position: absolute;
+    border-radius: 8%;
+    }
+   
+   .fondo{width: 20%;
+          height: 3%;
+          background: black;
+          margin-left: 30%;
+         margin-top: 10px;
+         position: absolute;
+         border-radius: 8%;
+        }
+   
+   .banio{width: 30%;
+      height: 3%;
+      background: rgb(145, 34, 95);
+      margin-left: 60%;
+      margin-top: 10px;
+      position: absolute;
+      border-radius: 8%;
+      }
+   
+   .taller{width: 40%;
+           height: 12%;
+           background: rgb(187, 103, 103);
+           margin-left: 12%;
+           margin-top: 55px;
+           position: absolute;
+           border-radius: 8%;
+          }
+   
+   .estanteriaDerecha{width: 6%;
+                      height: 90%;
+                      background: rgb(33, 228, 163);
+                      margin-left: 90%;
+                      margin-top: 45px;
+                      position: absolute;
+                      border-radius: 2%;
+                     }
+   
+   .mesa{width: 55%;
+     height: 60%;
+     background: rgb(33, 228, 163);
+     margin-left: 12%;
+      margin-top: 150px;
+      position: absolute;
+      border-radius: 2%;
+     }
+   
+     .estanteriaIzquierda{width: 6%;
+       height: 90%;
+       background: rgb(33, 228, 163);
+       margin-left: 2%;
+       margin-top: 45px;
+       position: absolute;
+       border-radius: 2%;
+      }
+   
+      .estanteriaOficina1{width: 60%;
+       height: 4%;
+       background: rgb(33, 228, 163);
+       margin-left: 12%;
+       margin-top: 560px;
+       position: absolute;
+       border-radius: 2%;
+      }
+   
+      .estanteriaOficina2{width: 60%;
+       height: 4%;
+       background: rgb(33, 228, 163);
+       margin-left: 12%;
+       margin-top: 602px;
+       position: absolute;
+       border-radius: 2%;
+      }
+     
+      .mesaPrincipalDerecha1 {width: 20%;
+       height: 20%;
+       background: rgb(33, 53, 228);
+       margin-left: 78%;
+       margin-top: 40%;
+       position: absolute;
+       border-radius: 2%;
+      }
+      .mesaPrincipalDerecha2 {width: 20%;
+       height: 20%;
+       background: rgb(228, 33, 59);
+       margin-left: 78%;
+       margin-top: 75%;
+       position: absolute;
+       border-radius: 2%;
+      }
+   
+      .mesaPrincipalDerecha3 {width: 20%;
+       height: 20%;
+       background: rgb(225, 228, 33);
+       margin-left: 78%;
+       margin-top: 110%;
+       position: absolute;
+       border-radius: 2%;
+      }
+    }*/
