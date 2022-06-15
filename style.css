@@ -13,126 +13,216 @@
              margin: 1%;
              background: rgb(150, 150, 150);
             position: relative;
+            border: 2px solid rgb(0, 0, 0);
           }
   
   .heladera{width: 15%;
      height: 3%;
-     background: rgb(87, 43, 43);
+     background: rgb(206, 206, 206);
      margin-left: 10%;
     margin-top: 1%;
     padding: 2%;
    position: absolute;
    border-radius: 8%;
+   border: 2px solid rgb(0, 0, 0);
+   
    }
   
   .fondo{width: 20%;
          height: 3%;
-         background: black;
+         background: rgb(206, 206, 206);
          margin-left: 30%;
         margin-top: 1%;
         position: absolute;
         border-radius: 8%;
+        border: 2px solid rgb(0, 0, 0);
        }
   
   .banio{width: 30%;
      height: 3%;
-     background: rgb(145, 34, 95);
+     background: rgb(206, 206, 206);
      margin-left: 60%;
      margin-top: 1%;
      position: absolute;
      border-radius: 8%;
+     border: 2px solid rgb(0, 0, 0);
      }
   
   .taller{width: 40%;
           height: 12%;
-          background: rgb(187, 103, 103);
+          background: rgb(204, 204, 204);
           margin-left: 12%;
           margin-top: 10%;
           position: absolute;
           border-radius: 8%;
+          border: 2px solid rgb(0, 0, 0);
          }
   
   .estanteriaDerecha{width: 6%;
                      height: 92%;
-                     background: rgb(33, 228, 163);
+                     background: rgb(218, 218, 218);
                      margin-left: 90%;
                      margin-top: 8%;
                      position: absolute;
                      border-radius: 2%;
+                     border: 2px solid rgb(0, 0, 0);
                     }
   
   .mesa{width: 55%;
     height: 60%;
-    background: rgb(33, 228, 163);
+    background: rgb(218, 218, 218);
     margin-left: 12%;
      margin-top: 35%;
      position: absolute;
      border-radius: 2%;
+     border: 2px solid rgb(0, 0, 0);
     }
   
     .estanteriaIzquierda{width: 6%;
       height: 92%;
-      background: rgb(33, 228, 163);
+      background: rgb(218, 218, 218);
       margin-left: 2%;
       margin-top: 8%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
      }
   
      .estanteriaOficina1{width: 60%;
       height: 4%;
-      background: rgb(33, 228, 163);
+      background: rgb(209, 209, 209);
       margin-left: 12%;
       margin-top: 125%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
      }
   
      .estanteriaOficina2{width: 60%;
       height: 4%;
-      background: rgb(33, 228, 163);
+      background: rgb(209, 209, 209);
       margin-left: 12%;
       margin-top: 135%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
      }
     
      .mesaPrincipalDerecha1 {width: 20%;
       height: 20%;
-      background: rgb(33, 53, 228);
+      background: rgb(184, 184, 184);
       margin-left: 78%;
       margin-top: 40%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
        
      }
      .mesaPrincipalDerecha2 {width: 20%;
       height: 20%;
-      background: rgb(228, 33, 59);
+      background: rgb(184, 184, 184);
       margin-left: 78%;
       margin-top: 75%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
      }
   
      .mesaPrincipalDerecha3 {width: 20%;
       height: 20%;
-      background: rgb(225, 228, 33);
+      background: rgb(184, 184, 184);
       margin-left: 78%;
       margin-top: 110%;
       position: absolute;
       border-radius: 2%;
+      border: 2px solid rgb(0, 0, 0);
      }
   
-     .fuente{font-size: 0px;
-             width: 10px;
-              height:10px;}
+.fuente{font-size: 0px;
+        width: 10px;
+        height:10px;
+      }
 
-  .coloresArticulos {width: 20px;
-                     height: 20px;
-                     margin: 60% 30%;
-                    
-                   }
+.coloresArticulos {width: 15px;
+                    height: 15px;
+                    margin: 70% 30%;
+                    border-radius: 50%;
+                    }
+
+.coloresArticulos10 {width: 15px;
+height: 15px;
+margin: 50% 15%;
+border-radius: 50%;
+}
+
+.coloresArticulos11 {width: 15px;
+  height: 15px;
+  margin: 330% 15%;
+  border-radius: 50%;
+  }
+.coloresArticulos12 {width: 15px;
+  height: 15px;
+  margin: 330% 15%;
+  border-radius: 50%;
+  }
+.coloresArticulos13 {width: 15px;
+  height: 15px;
+  margin: 330% 15%;
+  border-radius: 50%;
+  }
+.coloresArticulos14 {width: 15px;
+  height: 15px;
+  margin: 330% 15%;
+  border-radius: 50%;
+  }
+.coloresArticulos15 {width: 15px;
+  height: 15px;
+  margin: 330% 15%;
+  border-radius: 50%;
+  }
+
+  .coloresArticulos16 {width: 15px;
+    height: 15px;
+    margin: 330% 15%;
+    border-radius: 50%;
+    }
+
+.coloresArticulos20{width: 15px;
+  height: 15px;
+  margin: -1% 40%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_1{width: 15px;
+  height: 15px;
+  margin: 1% 20%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_2{width: 15px;
+  height: 15px;
+  margin: 1% 20%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_3{width: 15px;
+  height: 15px;
+  margin: 1% 60%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_4{width: 15px;
+  height: 15px;
+  margin: 1% 80%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_5{width: 15px;
+  height: 15px;
+  margin: 1% 100%;
+  border-radius: 50%;}
+
+  .coloresArticulosEstOf1_6{width: 15px;
+  height: 15px;
+  margin: 1% 110%;
+  border-radius: 50%;}
+
+
    /*  @media screen and (max-width:1360px){
      .principal{max-width: 100%;
                 min-height: 650px;
