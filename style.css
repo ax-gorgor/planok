@@ -9,7 +9,7 @@
   
   
   .principal{max-width: 100%;
-             min-height: 680px;
+             min-height: 600px;
              margin: 1%;
              background: rgb(150, 150, 150);
             position: relative;
@@ -59,7 +59,7 @@
          }
   
   .estanteriaDerecha{width: 6%;
-                     height: 86%;
+                     height: 84%;
                      background: rgb(218, 218, 218);
                      margin-left: 90%;
                      margin-top: 8%;
@@ -72,7 +72,7 @@
                     height: 6%;
                     background: rgb(218, 218, 218);
                     margin-left: 90%;
-                    margin-top: 148%;
+                    margin-top: 138%;
                     position: absolute;
                     border-radius: 2%;
                     border: 2px solid rgb(0, 0, 0);
@@ -86,7 +86,7 @@
 
   
   .mesa{width: 55%;
-    height: 60%;
+    height: 55%;
     background: rgb(218, 218, 218);
     margin-left: 12%;
      margin-top: 35%;
@@ -109,7 +109,7 @@
       height: 4%;
       background: rgb(209, 209, 209);
       margin-left: 12%;
-      margin-top: 135%;
+      margin-top: 130%;
       position: absolute;
       border-radius: 2%;
       border: 2px solid rgb(0, 0, 0);
@@ -119,7 +119,7 @@
       height: 4%;
       background: rgb(209, 209, 209);
       margin-left: 12%;
-      margin-top: 145%;
+      margin-top: 140%;
       position: absolute;
       border-radius: 2%;
       border: 2px solid rgb(0, 0, 0);
