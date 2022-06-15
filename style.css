@@ -59,7 +59,7 @@
          }
   
   .estanteriaDerecha{width: 6%;
-                     height: 92%;
+                     height: 86%;
                      background: rgb(218, 218, 218);
                      margin-left: 90%;
                      margin-top: 8%;
@@ -67,6 +67,23 @@
                      border-radius: 2%;
                      border: 2px solid rgb(0, 0, 0);
                     }
+
+  .estanteriaDerecha2{width: 6%;
+                    height: 6%;
+                    background: rgb(218, 218, 218);
+                    margin-left: 90%;
+                    margin-top: 132%;
+                    position: absolute;
+                    border-radius: 2%;
+                    border: 2px solid rgb(0, 0, 0);
+                    }
+
+
+
+
+
+
+
   
   .mesa{width: 55%;
     height: 60%;
@@ -157,35 +174,89 @@ border-radius: 50%;
 
 .coloresArticulos11 {width: 15px;
   height: 15px;
-  margin: 330% 15%;
+  margin: 360% 15%;
   border-radius: 50%;
   }
 .coloresArticulos12 {width: 15px;
   height: 15px;
-  margin: 330% 15%;
+  margin: 360% 15%;
   border-radius: 50%;
   }
 .coloresArticulos13 {width: 15px;
   height: 15px;
-  margin: 330% 15%;
+  margin: 360% 15%;
   border-radius: 50%;
   }
 .coloresArticulos14 {width: 15px;
   height: 15px;
-  margin: 330% 15%;
+  margin: 360% 15%;
   border-radius: 50%;
   }
 .coloresArticulos15 {width: 15px;
   height: 15px;
-  margin: 330% 15%;
+  margin: 360% 15%;
   border-radius: 50%;
   }
 
   .coloresArticulos16 {width: 15px;
     height: 15px;
-    margin: 330% 15%;
+    margin: 360% 15%;
     border-radius: 50%;
+    
     }
+
+    .coloresArticulos100{width: 15px;
+        height: 15px;
+        margin: 100% 15%;
+        border-radius: 50%;
+        
+        }
+        .coloresArticulos110{width: 15px;
+            height: 15px;
+            margin: 300% 15%;
+            border-radius: 50%;
+            
+            }
+            .coloresArticulos120{width: 15px;
+                height: 15px;
+                margin: 300% 15%;
+                border-radius: 50%;
+                
+                }
+                .coloresArticulos130{width: 15px;
+                    height: 15px;
+                    margin: 300% 15%;
+                    border-radius: 50%;
+                    
+                    }
+                    .coloresArticulos140{width: 15px;
+                        height: 15px;
+                        margin: 300% 15%;
+                        border-radius: 50%;
+                        
+                        }
+                        .coloresArticulos150{width: 15px;
+                            height: 15px;
+                            margin: 300% 15%;
+                            border-radius: 50%;
+                            
+                            }
+                            .coloresArticulos160{width: 15px;
+                                height: 15px;
+                                margin: 300% 15%;
+                                border-radius: 50%;
+                                
+                                }
+    
+
+
+
+.coloresArticulos17 {width: 15px;
+    height: 15px;
+    margin: 35% 15%;
+    border-radius: 50%;
+        
+        }
 
 .coloresArticulos20{width: 15px;
   height: 15px;
@@ -221,6 +292,11 @@ border-radius: 50%;
   height: 15px;
   margin: 1% 110%;
   border-radius: 50%;}
+
+  .divisionesDeEstanterias {width: 100%;
+                            height: 50%;
+                            margin-bottom:1px;
+                            border: 1px solid rgb(90, 90, 90);}
 
 
    /*  @media screen and (max-width:1360px){
