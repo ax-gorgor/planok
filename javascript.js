@@ -90,7 +90,7 @@ else {
       };
 
 if (  getin!="2514" & getin!="2515" & getin!="1327" & getin!="2536" & getin!="1708" & getin!="1442"
-      & getin!="1714" & getin!="2533" & getin!="1539" & getin!="1538" & getin!="1536"
+      & getin!="1714" & getin!="2533" & getin!="1539" & getin!="1538" & getin!="1536" & getin!="1431"
       )
  
 { }
