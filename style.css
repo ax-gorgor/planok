@@ -9,7 +9,7 @@
   
   
   .principal{max-width: 100%;
-             min-height: 600px;
+             min-height: 680px;
              margin: 1%;
              background: rgb(150, 150, 150);
             position: relative;
@@ -72,7 +72,7 @@
                     height: 6%;
                     background: rgb(218, 218, 218);
                     margin-left: 90%;
-                    margin-top: 132%;
+                    margin-top: 148%;
                     position: absolute;
                     border-radius: 2%;
                     border: 2px solid rgb(0, 0, 0);
@@ -109,7 +109,7 @@
       height: 4%;
       background: rgb(209, 209, 209);
       margin-left: 12%;
-      margin-top: 125%;
+      margin-top: 135%;
       position: absolute;
       border-radius: 2%;
       border: 2px solid rgb(0, 0, 0);
@@ -119,7 +119,7 @@
       height: 4%;
       background: rgb(209, 209, 209);
       margin-left: 12%;
-      margin-top: 135%;
+      margin-top: 145%;
       position: absolute;
       border-radius: 2%;
       border: 2px solid rgb(0, 0, 0);
