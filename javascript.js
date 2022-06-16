@@ -1,8 +1,16 @@
+
 var a1 = document.getElementById('a1');
 var a2 = document.getElementById('a2');
 var a3 = document.getElementById('a3');
 var a10 = document.getElementById('a10');
 var a10 = document.getElementById('a10');
+
+var b10 = document.getElementById('b10');
+var b11 = document.getElementById('b11');
+
+var c10 = document.getElementById('c10');
+var c11 = document.getElementById('c11');
+
 var a11 = document.getElementById('a11');
 var a12 = document.getElementById('a12');
 var a13 = document.getElementById('a13');
@@ -252,7 +260,7 @@ else {
 
 
  
-
+// ESTANTERIA OFICINA 1 PRINCIPIO //
 
  if (  getin!="1110" & getin!="1111" & getin!="1112")
  
@@ -271,3 +279,39 @@ else {
         b11.style.background= 'red';
         b11.style.border= '1px solid rgb(0, 0, 0)';
         };
+
+// ESTANTERIA OFICINA 1 FIN //
+
+// ESTANTERIA OFICINA 2 PRINCIPIO //
+
+if (  getin!="3110" & getin!="3111" )
+ 
+{ }
+                                   
+else { 
+    c10.style.background= 'red';
+    c10.style.border= '1px solid rgb(0, 0, 0)';
+    };
+
+    if (  getin!="4110" & getin!="4111")
+ 
+    { }
+                                       
+    else { 
+        c11.style.background= 'red';
+        c11.style.border= '1px solid rgb(0, 0, 0)';
+        };
+
+// ESTANTERIA OFICINA 2 FIN //
+
+// ESTANTERIA FONDO PRINCIPIO //
+if (  getin!="5110" & getin!="5111")
+ 
+    { }
+                                       
+    else { 
+        a20.style.background= 'red';
+        a20.style.border= '1px solid rgb(0, 0, 0)';
+        };
+
+// ESTANTERIA FONDO FINAL //
