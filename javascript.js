@@ -261,7 +261,7 @@ else {
  
 // ESTANTERIA OFICINA 1 PRINCIPIO //
 
- if (  getin!="1110" & getin!="1111" & getin!="1112")
+ if (   getin!="1103" & getin!="1104" & getin!="2412" & getin!="1420" )
  
 { }
                                    
@@ -270,7 +270,8 @@ else {
     b10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if (  getin!="2110" & getin!="2111" & getin!="2112")
+    if (getin!="1304" & getin!="1436" & getin!="1712" & getin!="1314" &
+        getin!="1101" & getin!="2015")
  
     { }
                                        
@@ -283,7 +284,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (  getin!="3110" & getin!="3111" )
+if (  getin!="1340" & getin!="1005" & getin!="1133" & getin!="1105" & getin!="1312"  )
  
 { }
                                    
@@ -292,7 +293,8 @@ else {
     c10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if (  getin!="4110" & getin!="4111")
+    if (  getin!="134" & getin!="146" & getin!="112" & getin!="114" &
+          getin!="1101" & getin!="2015")
  
     { }
                                        
@@ -304,7 +306,7 @@ else {
 // ESTANTERIA OFICINA 2 FIN //
 
 // ESTANTERIA FONDO PRINCIPIO //
-if (  getin!="5110" & getin!="5111")
+if (  getin!="1905" & getin!="100" & getin!="860")
  
     { }
                                        
