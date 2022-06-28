@@ -4,6 +4,10 @@ var a3 = document.getElementById('a3');
 var a10 = document.getElementById('a10');
 var a10 = document.getElementById('a10');
 
+var b1 = document.getElementById('b1');
+var b2 = document.getElementById('b2');
+var b3 = document.getElementById('b3');
+
 var b10 = document.getElementById('b10');
 var b11 = document.getElementById('b11');
 
@@ -81,6 +85,35 @@ else {
       };
 
 // MESA PRINCIPAL DERECHA 3 FIN //
+
+
+// MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
+
+if (getin!="2509" & getin!="1306" /* & getin!="1552"*/ )  
+
+{ }
+
+else { b1.style.background= 'red';
+      b1.style.border= '1px solid rgb(0, 0, 0)';
+      }
+
+ 
+// MESA PRINCIPAL IZQUIERDA 1 FIN //
+
+// MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
+
+if (getin!="2535" /*& getin!="1306" & getin!="1552"*/ )  
+
+{ }
+
+else { b2.style.background= 'red';
+      b2.style.border= '1px solid rgb(0, 0, 0)';
+      }
+
+ 
+// MESA PRINCIPAL IZQUIERDA 2 FIN //
+
+
 
 
 //// ESTANTERIA DERECHA PRINCIPIO //

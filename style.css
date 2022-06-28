@@ -154,7 +154,37 @@ body{background-color: #ededed;}
     border-radius: 2%;
     border: 2px solid rgb(0, 0, 0);
    }
+ 
+ .mesaPrincipalIzquierda1 {width: 20%;
+    height: 20%;
+    background: rgb(184, 184, 184);
+    margin-left: 2%;
+    margin-top: 40%;
+    position: absolute;
+    border-radius: 2%;
+    border: 2px solid rgb(0, 0, 0);
+     
+   }
+   .mesaPrincipalIzquierda2 {width: 20%;
+    height: 20%;
+    background: rgb(184, 184, 184);
+    margin-left: 2%;
+    margin-top: 75%;
+    position: absolute;
+    border-radius: 2%;
+    border: 2px solid rgb(0, 0, 0);
+   }
 
+   .mesaPrincipalIzquierda3 {width: 20%;
+    height: 20%;
+    background: rgb(184, 184, 184);
+    margin-left: 2%;
+    margin-top: 110%;
+    position: absolute;
+    border-radius: 2%;
+    border: 2px solid rgb(0, 0, 0);
+   }
+ 
 .fuente{font-size: 0px;
       width: 10px;
       height:10px;
