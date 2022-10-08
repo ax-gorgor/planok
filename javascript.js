@@ -44,7 +44,8 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="2521" /*& getin!="1551" & getin!="1552"*/ )  
+if (getin!="2226" & getin!="1282" & getin!="2043" & getin!="1106" & getin!="2506" 
+    & getin!="1057" & getin!="2521" )  
 
 { }
 
@@ -59,7 +60,7 @@ else { a1.style.background= 'red';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="1426" & getin!="2551" & getin!="1309") //mesaPrincipalDerecha2
+ if (  getin!="2233" & getin!="1309" & getin!="2209" & getin!="1323" & getin!="1671") //mesaPrincipalDerecha2
  
 { }
 
@@ -75,7 +76,7 @@ else {
 // MESA PRINCIPAL DERECHA 3 PRINCIPIO //
 
 
-if (  getin!="1671" & getin!="1421" /*& getin!="3551" & getin!="3552"*/)  
+if (  getin!="1421" & getin!="1309"  /*& getin!="3551" & getin!="3552"*/)  
  
       { }
       
@@ -89,7 +90,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if (getin!="2509" & getin!="1306" /* & getin!="1552"*/ )  
+if (getin!="2546" & getin!="1308" & getin!="1426" & getin!="1201"  /* & getin!="1552"*/ )  
 
 { }
 
@@ -102,12 +103,21 @@ else { b1.style.background= 'red';
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (getin!="2535" /*& getin!="1306" & getin!="1552"*/ )  
+if (getin!="1306" & getin!="2509" & getin!="2549" /*& getin!="1306" & getin!="1552"*/ )  
 
 { }
 
 else { b2.style.background= 'red';
       b2.style.border= '1px solid rgb(0, 0, 0)';
+      }
+
+
+if (getin!="2535" & getin!="1865" & getin!="1203" /*& getin!="1306" & getin!="1552"*/ )  
+
+{ }
+      
+else { b3.style.background= 'red';
+       b3.style.border= '1px solid rgb(0, 0, 0)';
       }
 
  
@@ -118,9 +128,8 @@ else { b2.style.background= 'red';
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="1548" & getin!="1544" & getin!="2538" & getin!="2537" & getin!="1542" 
-    & getin!="1546" & getin!="1543" & getin!="2005" & getin!="8201" & getin!="7502" & getin!="9803" & getin!="9600" & getin!="1007" & getin!="1144"
-    & getin!="1143" )
+if (  getin!="2503" & getin!="2538" & getin!="2537" & getin!="2533" 
+    )
  
 { }
       
@@ -129,9 +138,7 @@ else {
       a10.style.border= '1px solid rgb(0, 0, 0)';
       };
 
-if (  getin!="2514" & getin!="2515" & getin!="1327" & getin!="2536" & getin!="1708" & getin!="1442"
-      & getin!="1714" & getin!="2533" & getin!="1539" & getin!="1538" & getin!="1536" & getin!="1431"
-      )
+if (  getin!="2532" & getin!="2536" & getin!="1536")
  
 { }
             
@@ -141,7 +148,9 @@ if (  getin!="2514" & getin!="2515" & getin!="1327" & getin!="2536" & getin!="17
      };
 
 
-if (  getin!="1439" & getin!="1432" & getin!="1203" & getin!="1324" & getin!="1328" )
+if (  getin!="1539" & getin!="1548" & getin!="2600" & getin!="1550" & getin!="2234"
+      & getin!="2231" & getin!="2601" & getin!="1327" & getin!="2244"
+      & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" )
  
 { }
             
@@ -150,7 +159,9 @@ else {
      a12.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="1450" & getin!="1128" & getin!="2512" & getin!="2401" & getin!="1462" )
+if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" & getin!="2021" & 
+      getin!="2010" & getin!="1441" & getin!="1431" & getin!="2019" & getin!="1462" &
+      getin!="1432" & getin!="2512" & getin!="2401")
  
 { }
                  
@@ -159,7 +170,7 @@ else {
      a13.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="1323" & getin!="1422" & getin!="1085" & getin!="1325" & getin!="1129" & getin!="1498")
+if (  getin!="1128" & getin!="1450" & getin!="1325" & getin!="1498" & getin!="1085")
  
 { }
                       
@@ -168,8 +179,7 @@ else {
      a14.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (   getin!="1310" & getin!="1137" & getin!="1155" & getin!="1304" & getin!="1159" & getin!="1008" & 
-getin!="1111" & getin!="1675" & getin!="1012" & getin!="1499" & getin!="1082" & getin!="1782")
+if (   getin!="1129" & getin!="1085" & getin!="1498" & getin!="1323" & getin!="1422")
  
          { }
                            
@@ -218,7 +228,9 @@ else {
       a100.style.border= '1px solid rgb(0, 0, 0)';
       };
 
-if (  getin!="850" & getin!="851" & getin!="2541" & getin!="2007" & getin!="1662" & getin!="1798")
+if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="1151" & getin!="2032" &
+      getin!="1157" & getin!="1433" & getin!="1499" & getin!="1329" & getin!="2410" & getin!="1514" &
+      getin!="2502" & getin!="2511")
  
 { }
             
@@ -228,7 +240,9 @@ if (  getin!="850" & getin!="851" & getin!="2541" & getin!="2007" & getin!="1662
      };
 
 
-if (  getin!="1010" & getin!="1173" & getin!="1676" & getin!="2545")
+if (  getin!="1173" & getin!="2017" & getin!="2016" & getin!="1002" &
+      getin!="1010" & getin!="1082" & getin!="1798" & getin!="2007" & getin!="1676" & getin!="1662"
+      & getin!="2007" & getin!="850" & getin!="851" & getin!="2541" )
  
 { }
             
@@ -237,8 +251,7 @@ else {
      a120.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="2502" & getin!="1332" & getin!="2522" & getin!="2542" & getin!="1433" & getin!="2522"
-    & getin!="2508" & getin!="1440" & getin!="2540" & getin!="2503" & getin!="1329" & getin!="2506")
+if (  getin!="2407" & getin!="2411" & getin!="2545" & getin!="2508")
  
 { }
                  
@@ -247,7 +260,8 @@ else {
      a130.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="1683" & getin!="1122" & getin!="1700")
+if (  getin!="1332" & getin!="1305" & getin!="1308"
+      & getin!="2542" & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522")
  
 { }
                       
@@ -256,7 +270,8 @@ else {
      a140.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="1086" & getin!="2510" & getin!="1865" & getin!="1135")
+if (  getin!="1104" & getin!="1005" & getin!="1122" & getin!="1135"
+      & getin!="1103" & getin!="1321")
  
 { }
                            
@@ -265,10 +280,9 @@ else {
     a150.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if (  getin!="2407" &  getin!="1201" & getin!="1695" &  getin!="1709" & getin!="2014" &
-          getin!="2411" & getin!="2410" &  getin!="2011" &  getin!="1401" & getin!="1152" & 
-          getin!="1710" & getin!="1091" &  getin!="2402" &  getin!="1004" & getin!="1082" &
-          getin!="2020" & getin!="1007" &  getin!="2403" &  getin!="1327" & getin!="1076" 
+    if (  getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
+          getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
+          getin!="2014" & getin!="1086" 
           )
  
     { }
@@ -294,7 +308,8 @@ else {
  
 // ESTANTERIA OFICINA 1 PRINCIPIO //
 
- if (   getin!="1103" & getin!="1104" & getin!="2412" & getin!="1420" )
+ if (   getin!="1101" & getin!="2015" & getin!="1436" & getin!="1314" 
+        & getin!="2412" & getin!="1420" & getin!="1001")
  
 { }
                                    
@@ -304,7 +319,7 @@ else {
     };
 
     if (getin!="1304" & getin!="1436" & getin!="1712" & getin!="1314" &
-        getin!="1101" & getin!="2015")
+        getin!="2051" & getin!="2412" & getin!="1420")
  
     { }
                                        
@@ -317,7 +332,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (  getin!="1340" & getin!="1005" & getin!="1133" & getin!="1105" & getin!="1312"  )
+if (  getin!="1340" & getin!="1005" )
  
 { }
                                    
@@ -326,8 +341,7 @@ else {
     c10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if (  getin!="134" & getin!="146" & getin!="112" & getin!="114" &
-          getin!="1101" & getin!="2015")
+    if ( getin!="1312" & getin!="2020" & getin!="1133")
  
     { }
                                        
@@ -339,7 +353,7 @@ else {
 // ESTANTERIA OFICINA 2 FIN //
 
 // ESTANTERIA FONDO PRINCIPIO //
-if (  getin!="1905" & getin!="100" & getin!="860")
+if (  getin!="860" & getin!="1905" & getin!="1007" & getin!="1683" & getin!="2005")
  
     { }
                                        
