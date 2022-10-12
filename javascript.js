@@ -141,7 +141,7 @@ else {
       a10.style.border= '1px solid rgb(0, 0, 0)';
       };
 
-if (  getin!="2532" & getin!="2536" & getin!="1536")
+if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
  
 { }
             
