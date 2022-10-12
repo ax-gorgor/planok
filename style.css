@@ -59,8 +59,8 @@ body{background-color: #ededed;}
         border: 2px solid rgb(0, 0, 0);
        }
 
-.bandera{z-index: 1000;
-         width: 20px;
+.bandera{ padding-left: 5px;
+         width: 30px;
          }
 
 .estanteriaDerecha{width: 6%;
