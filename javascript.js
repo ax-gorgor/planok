@@ -14,6 +14,9 @@ var b11 = document.getElementById('b11');
 var c10 = document.getElementById('c10');
 var c11 = document.getElementById('c11');
 
+var d10 = document.getElementById('d10');
+var d11 = document.getElementById('d11');
+
 var a11 = document.getElementById('a11');
 var a12 = document.getElementById('a12');
 var a13 = document.getElementById('a13');
@@ -309,8 +312,7 @@ else {
  
 // ESTANTERIA OFICINA 1 PRINCIPIO //
 
- if (   getin!="1101" & getin!="2015" & getin!="1436" & getin!="1314" 
-        & getin!="2412" & getin!="1420" & getin!="1001")
+ if ( getin!="1001")
  
 { }
                                    
@@ -319,8 +321,7 @@ else {
     b10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if (getin!="1304" & getin!="1436" & getin!="1712" & getin!="1314" &
-        getin!="2051" & getin!="2412" & getin!="1420")
+    if (getin!="1420" & getin!="2412" & getin!="2051")
  
     { }
                                        
@@ -333,7 +334,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (  getin!="1340" & getin!="1005" )
+if (  getin!="1101" & getin!="2015" )
  
 { }
                                    
@@ -342,7 +343,7 @@ else {
     c10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if ( getin!="1312" & getin!="2020" & getin!="1133")
+    if ( getin!="1436" & getin!="1304" & getin!="1312" & getin!="1314")
  
     { }
                                        
@@ -352,6 +353,33 @@ else {
         };
 
 // ESTANTERIA OFICINA 2 FIN //
+
+// ESTANTERIA OFICINA 3 PRINCIPIO //
+
+        if ( getin!="1105")
+ 
+        { }
+                                           
+        else { 
+            d10.style.background= 'red';
+            d10.style.border= '1px solid rgb(0, 0, 0)';
+            };
+    
+
+        if ( getin!="2020" & getin!="1312" & getin!="1340")
+ 
+    { }
+                                       
+    else { 
+        d11.style.background= 'red';
+        d11.style.border= '1px solid rgb(0, 0, 0)';
+        };
+
+// ESTANTERIA OFICINA 3 FIN //
+
+
+
+
 
 // ESTANTERIA FONDO PRINCIPIO //
 if (  getin!="860" & getin!="1905" & getin!="1007" & getin!="1683" & getin!="2005")

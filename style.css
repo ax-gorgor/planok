@@ -14,6 +14,7 @@ body{background-color: #ededed;}
            background: rgb(150, 150, 150);
           position: relative;
           border: 2px solid rgb(0, 0, 0);
+          z-index: 100;
         }
 
 .heladera{width: 15%;
@@ -58,6 +59,10 @@ body{background-color: #ededed;}
         border: 2px solid rgb(0, 0, 0);
        }
 
+.bandera{z-index: 1000;
+         width: 20px;
+         }
+
 .estanteriaDerecha{width: 6%;
                    height: 84%;
                    background: rgb(218, 218, 218);
@@ -93,6 +98,7 @@ body{background-color: #ededed;}
    position: absolute;
    border-radius: 2%;
    border: 2px solid rgb(0, 0, 0);
+  
   }
 
   .estanteriaIzquierda{width: 6%;
@@ -109,7 +115,7 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(209, 209, 209);
     margin-left: 12%;
-    margin-top: 130%;
+    margin-top: 120%;
     position: absolute;
     border-radius: 2%;
     border: 2px solid rgb(0, 0, 0);
@@ -119,11 +125,22 @@ body{background-color: #ededed;}
     height: 4%;
     background: rgb(209, 209, 209);
     margin-left: 12%;
+    margin-top: 130%;
+    position: absolute;
+    border-radius: 2%;
+    border: 2px solid rgb(0, 0, 0);
+   }
+
+   .estanteriaOficina3{width: 60%;
+    height: 4%;
+    background: rgb(209, 209, 209);
+    margin-left: 12%;
     margin-top: 140%;
     position: absolute;
     border-radius: 2%;
     border: 2px solid rgb(0, 0, 0);
    }
+  
   
    .mesaPrincipalDerecha1 {width: 20%;
     height: 20%;
