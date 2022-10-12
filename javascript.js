@@ -60,7 +60,7 @@ else { a1.style.background= 'red';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="2233" & getin!="1309" & getin!="2209" & getin!="1323" & getin!="1671") //mesaPrincipalDerecha2
+ if (  getin!="2223" & getin!="1309" & getin!="2209" & getin!="1323" & getin!="1671") //mesaPrincipalDerecha2
  
 { }
 
