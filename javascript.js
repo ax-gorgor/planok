@@ -343,7 +343,7 @@ else {
     c10.style.border= '1px solid rgb(0, 0, 0)';
     };
 
-    if ( getin!="1436" & getin!="1304" & getin!="1312" & getin!="1314")
+    if ( getin!="1436" & getin!="1304" & getin!="1712" & getin!="1314")
  
     { }
                                        
