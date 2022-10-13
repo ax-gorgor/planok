@@ -223,7 +223,7 @@ a17.style.border= '1px solid rgb(0, 0, 0)';
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="1157" & getin!="1151")
+if (  getin!="1157" & getin!="1151" & getin!="2545")
  
 { }
       
@@ -255,7 +255,7 @@ else {
      a120.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="2407" & getin!="2411" & getin!="2545" & getin!="2508")
+if (  getin!="2407" & getin!="2411" & getin!="2508")
  
 { }
                  
