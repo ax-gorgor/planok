@@ -48,7 +48,7 @@ var getin = prompt ('Poné el artículo')
 
 
 if (getin!="2226" & getin!="1282" &  getin!="1106" & getin!="2506" 
-    & getin!="1057" & getin!="2521" )  
+     & getin!="2521" )  
 
 { }
 
@@ -153,7 +153,7 @@ if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
 
 if (  getin!="1539" & getin!="1548" & getin!="1550" & getin!="2234"
       & getin!="2231" &   getin!="1327" & getin!="2244"
-      & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" & getin!="2020"
+      & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" & getin!="1057"
       & getin!="2043")
  
 { }
@@ -286,7 +286,7 @@ else {
 
     if (  getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
           getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
-          getin!="2014" & getin!="1086" 
+          getin!="2014" & getin!="1086" & getin!="2022"
           )
  
     { }
