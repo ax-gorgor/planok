@@ -207,7 +207,7 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if (  getin!="1152" & getin!="1156" & getin!="2600" & getin!="2601" /*& getin!="1159" & getin!="1008" & 
+if (  getin!="1152" & getin!="1156" & getin!="2600" & getin!="2601" & getin!="1137" /* & getin!="1008" & 
 getin!="1111" & getin!="1675" & getin!="1012" & getin!="1499" & getin!="1082" & getin!="1782"*/)
 
 { }
