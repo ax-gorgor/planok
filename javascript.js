@@ -224,7 +224,7 @@ a17.style.border= '1px solid rgb(0, 0, 0)';
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="1157" & getin!="1151" & getin!="2545")
+if (  getin!="1157" & getin!="1151" & getin!="2545" & getin!="1544" )
  
 { }
       
@@ -235,7 +235,7 @@ else {
 
 if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="1151" & getin!="2032" &
       getin!="1157" & getin!="1433" & getin!="1499" & getin!="1329" & getin!="2410" & getin!="1514" &
-      getin!="2502" & getin!="2511")
+       getin!="2502" & getin!="2511")
  
 { }
             
