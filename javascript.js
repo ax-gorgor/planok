@@ -183,7 +183,8 @@ else {
      a14.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (   getin!="1129" & getin!="1085" & getin!="1498" & getin!="1323" & getin!="1422" & getin!="1137" & getin!="1155" )
+if (   getin!="1129" & getin!="1085" & getin!="1498" & getin!="1323" & getin!="1422"
+        & getin!="1137" & getin!="1155" & getin!="1008" & getin!="1675"& getin!="1782")
  
          { }
                            
