@@ -367,7 +367,7 @@ else {
             };
     
 
-        if ( getin!="2020" & getin!="1312" & getin!="1340")
+        if ( getin!="2020" & getin!="1312" & getin!="1340" & getin!="1133")
  
     { }
                                        
