@@ -163,7 +163,7 @@ else {
      a12.style.border= '1px solid rgb(0, 0, 0)';
      };
 
-if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" & getin!="2021" & 
+if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" & 
       getin!="2010" & getin!="1441" & getin!="1431" & getin!="2019" & getin!="1462" &
       getin!="1432" & getin!="2512" & getin!="2401" & getin!="2508")
  
