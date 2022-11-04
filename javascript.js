@@ -48,7 +48,7 @@ var getin = prompt ('Poné el artículo')
 
 
 if (getin!="2226" & getin!="1282" &  getin!="1106" & getin!="2506" 
-     & getin!="2521" )  
+     & getin!="2521" & getin!="2542" )  
 
 { }
 
@@ -266,7 +266,7 @@ else {
      };
 
 if (  getin!="1332" & getin!="1305" & getin!="1308"
-      & getin!="2542" & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522")
+       & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522")
  
 { }
                       
