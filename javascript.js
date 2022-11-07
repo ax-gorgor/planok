@@ -151,10 +151,10 @@ if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
      };
 
 
-if (  getin!="1539" & getin!="1548" & getin!="1550" & getin!="2234"
+if (  getin!="1548" & getin!="1550" & getin!="2234"
       & getin!="2231" &   getin!="1327" & getin!="2244"
       & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" & getin!="1057"
-      & getin!="2043")
+      & getin!="2043" & getin!="2010" & getin!="1538")
  
 { }
             
@@ -164,7 +164,7 @@ else {
      };
 
 if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" & 
-      getin!="2010" & getin!="1441" & getin!="1431" & getin!="2019" & getin!="1462" &
+      getin!="1441" & getin!="1431" & getin!="2019" & getin!="1462" &
       getin!="1432" & getin!="2512" & getin!="2401" & getin!="2508")
  
 { }
@@ -266,7 +266,8 @@ else {
      };
 
 if (  getin!="1332" & getin!="1305" & getin!="1308"
-       & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522")
+       & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522"
+       & getin!="1539")
  
 { }
                       
