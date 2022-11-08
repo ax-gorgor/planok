@@ -52,9 +52,11 @@ if (getin!="2226" & getin!="1282" &  getin!="1106" & getin!="2506"
 
 { }
 
-else { a1.style.background= 'red';
-      a1.style.border= '1px solid rgb(0, 0, 0)';
-      }
+else { a1.style.background= 'white';
+       a1.style.border= '1px solid red';
+       a1.innerHTML = getin;
+};
+        
 
       
 // MESA PRINCIPAL DERECHA 1 FIN //
@@ -68,9 +70,11 @@ else { a1.style.background= 'red';
 { }
 
 else { 
-     a2.style.background= 'red';
-     a2.style.border= '1px solid rgb(0, 0, 0)';
-      }
+      a2.style.background= 'white';
+      a2.style.border= '1px solid red';
+      a2.innerHTML = getin;
+     };
+      
 
 // MESA PRINCIPAL DERECHA 2 FIN //
 
@@ -84,8 +88,9 @@ if (  getin!="1421" & getin!="1309"  /*& getin!="3551" & getin!="3552"*/)
       { }
       
 else { 
-      a3.style.background= 'red';
-      a3.style.border= '1px solid rgb(0, 0, 0)';
+      a3.style.background= 'white';
+      a3.style.border= '1px solid red';
+       a3.innerHTML = getin;
       };
 
 // MESA PRINCIPAL DERECHA 3 FIN //
@@ -97,8 +102,9 @@ if (getin!="2546" & getin!="1308" & getin!="1426" & getin!="1201"  /* & getin!="
 
 { }
 
-else { b1.style.background= 'red';
-      b1.style.border= '1px solid rgb(0, 0, 0)';
+else { b1.style.background= 'white';
+       b1.style.border= '1px solid red';
+       b1.innerHTML = getin;
       }
 
  
@@ -110,8 +116,9 @@ if (getin!="1306" & getin!="2509" & getin!="2549" /*& getin!="1306" & getin!="15
 
 { }
 
-else { b2.style.background= 'red';
-      b2.style.border= '1px solid rgb(0, 0, 0)';
+else { b2.style.background= 'white';
+       b2.style.border= '1px solid red';
+       b2.innerHTML = getin;
       }
 
 
@@ -119,8 +126,9 @@ if (getin!="2535" & getin!="1865" & getin!="1203" /*& getin!="1306" & getin!="15
 
 { }
       
-else { b3.style.background= 'red';
-       b3.style.border= '1px solid rgb(0, 0, 0)';
+else { b3.style.background= 'white';
+       b3.style.border= '1px solid red';
+       b3.innerHTML = getin;
       }
 
  
@@ -137,8 +145,9 @@ if (  getin!="2503" & getin!="2538" & getin!="2537" & getin!="2533"
 { }
       
 else { 
-      a10.style.background= 'red';
-      a10.style.border= '1px solid rgb(0, 0, 0)';
+      a10.style.background= 'white';
+      a10.style.border= '1px solid red';
+      a10.innerHTML = getin;
       };
 
 if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
@@ -146,8 +155,9 @@ if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
 { }
             
  else { 
-     a11.style.background= 'red';
-     a11.style.border= '1px solid rgb(0, 0, 0)';
+      a11.style.background= 'white';
+      a11.style.border= '1px solid red';
+      a11.innerHTML = getin;
      };
 
 
@@ -159,8 +169,9 @@ if (  getin!="1548" & getin!="1550" & getin!="2234"
 { }
             
 else { 
-     a12.style.background= 'red';
-     a12.style.border= '1px solid rgb(0, 0, 0)';
+      a12.style.background= 'white';
+      a12.style.border= '1px solid red';
+      a12.innerHTML = getin;
      };
 
 if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" & 
@@ -170,8 +181,9 @@ if (  getin!="1328" & getin!="1324" & getin!="1143" & getin!="1326" &
 { }
                  
 else { 
-     a13.style.background= 'red';
-     a13.style.border= '1px solid rgb(0, 0, 0)';
+      a13.style.background= 'white';
+      a13.style.border= '1px solid red';
+      a13.innerHTML = getin;
      };
 
 if (  getin!="1128" & getin!="1450" & getin!="1325" & getin!="1498" & getin!="1085")
@@ -179,8 +191,9 @@ if (  getin!="1128" & getin!="1450" & getin!="1325" & getin!="1498" & getin!="10
 { }
                       
 else { 
-     a14.style.background= 'red';
-     a14.style.border= '1px solid rgb(0, 0, 0)';
+      a14.style.background= 'white';
+      a14.style.border= '1px solid red';
+      a14.innerHTML = getin;
      };
 
 if (   getin!="1129" & getin!="1085" & getin!="1498" & getin!="1323" & getin!="1422"
@@ -189,8 +202,9 @@ if (   getin!="1129" & getin!="1085" & getin!="1498" & getin!="1323" & getin!="1
          { }
                            
 else { 
-     a15.style.background= 'red';
-    a15.style.border= '1px solid rgb(0, 0, 0)';
+      a15.style.background= 'white';
+      a15.style.border= '1px solid red';
+      a15.innerHTML = getin;
     };
 /*
     if ( getin!="1310" & getin!="1137" & getin!="1155" & getin!="1304" & getin!="1159" & getin!="1008" & 
@@ -214,8 +228,9 @@ getin!="1111" & getin!="1675" & getin!="1012" & getin!="1499" & getin!="1082" & 
 { }
                      
 else { 
-a17.style.background= 'red';
-a17.style.border= '1px solid rgb(0, 0, 0)';
+      a17.style.background= 'white';
+      a17.style.border= '1px solid red';
+      a17.innerHTML = getin;
 };
 
 //// ESTANTERIA DERECHA BAJA FIN //
@@ -229,8 +244,9 @@ if (  getin!="1157" & getin!="1151" & getin!="2545" & getin!="1544" )
 { }
       
 else { 
-      a100.style.background= 'red';
-      a100.style.border= '1px solid rgb(0, 0, 0)';
+      a100.style.background= 'white';
+      a100.style.border= '1px solid red';
+      a100.innerHTML = getin;
       };
 
 if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="1151" & getin!="2032" &
@@ -240,8 +256,9 @@ if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="11
 { }
             
  else { 
-     a110.style.background= 'red';
-     a110.style.border= '1px solid rgb(0, 0, 0)';
+      a110.style.background= 'white';
+      a110.style.border= '1px solid red';
+      a110.innerHTML = getin;
      };
 
 
@@ -252,8 +269,9 @@ if (  getin!="1173" & getin!="2017" & getin!="2016" & getin!="1002" &
 { }
             
 else { 
-     a120.style.background= 'red';
-     a120.style.border= '1px solid rgb(0, 0, 0)';
+      a120.style.background= 'white';
+      a120.style.border= '1px solid red';
+      a120.innerHTML = getin;
      };
 
 if (  getin!="2407" & getin!="2411" & getin!="2508")
@@ -261,8 +279,9 @@ if (  getin!="2407" & getin!="2411" & getin!="2508")
 { }
                  
 else { 
-     a130.style.background= 'red';
-     a130.style.border= '1px solid rgb(0, 0, 0)';
+      a130.style.background= 'white';
+      a130.style.border= '1px solid red';
+      a130.innerHTML = getin;
      };
 
 if (  getin!="1332" & getin!="1305" & getin!="1308"
@@ -272,8 +291,9 @@ if (  getin!="1332" & getin!="1305" & getin!="1308"
 { }
                       
 else { 
-     a140.style.background= 'red';
-     a140.style.border= '1px solid rgb(0, 0, 0)';
+      a140.style.background= 'white';
+      a140.style.border= '1px solid red';
+      a140.innerHTML = getin;
      };
 
 if (  getin!="1104" & getin!="1005" & getin!="1122" & getin!="1135"
@@ -282,8 +302,9 @@ if (  getin!="1104" & getin!="1005" & getin!="1122" & getin!="1135"
 { }
                            
 else { 
-     a150.style.background= 'red';
-    a150.style.border= '1px solid rgb(0, 0, 0)';
+      a150.style.background= 'white';
+      a150.style.border= '1px solid red';
+      a150.innerHTML = getin;
     };
 
     if (  getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
@@ -294,8 +315,9 @@ else {
     { }
                                
     else { 
-         a160.style.background= 'red';
-        a160.style.border= '1px solid rgb(0, 0, 0)';
+      a160.style.background= 'white';
+      a160.style.border= '1px solid red';
+      a160.innerHTML = getin;
         };
 
 // ESTANTERIA IZQUIERDA FIN //
@@ -306,8 +328,9 @@ if (  getin!="80" & getin!="81" & getin!="82")
 { }
                                    
 else { 
-    a20.style.background= 'red';
-    a20.style.border= '1px solid rgb(0, 0, 0)';
+      a20.style.background= 'white';
+      a20.style.border= '1px solid red';
+      a20.innerHTML = getin;
     };
 
 
@@ -319,8 +342,9 @@ else {
 { }
                                    
 else { 
-    b10.style.background= 'red';
-    b10.style.border= '1px solid rgb(0, 0, 0)';
+      b10.style.background= 'white';
+      b10.style.border= '1px solid red';
+      b10.innerHTML = getin;
     };
 
     if (getin!="1420" & getin!="2412" & getin!="2051")
@@ -328,8 +352,9 @@ else {
     { }
                                        
     else { 
-        b11.style.background= 'red';
-        b11.style.border= '1px solid rgb(0, 0, 0)';
+      b11.style.background= 'white';
+      b11.style.border= '1px solid red';
+      b11.innerHTML = getin;
         };
 
 // ESTANTERIA OFICINA 1 FIN //
@@ -341,8 +366,9 @@ if (  getin!="1101" & getin!="2015" )
 { }
                                    
 else { 
-    c10.style.background= 'red';
-    c10.style.border= '1px solid rgb(0, 0, 0)';
+      c10.style.background= 'white';
+      c10.style.border= '1px solid red';
+      c10.innerHTML = getin;
     };
 
     if ( getin!="1436" & getin!="1304" & getin!="1712" & getin!="1314")
@@ -350,8 +376,9 @@ else {
     { }
                                        
     else { 
-        c11.style.background= 'red';
-        c11.style.border= '1px solid rgb(0, 0, 0)';
+      c11.style.background= 'white';
+      c11.style.border= '1px solid red';
+      c11.innerHTML = getin;
         };
 
 // ESTANTERIA OFICINA 2 FIN //
@@ -363,8 +390,9 @@ else {
         { }
                                            
         else { 
-            d10.style.background= 'red';
-            d10.style.border= '1px solid rgb(0, 0, 0)';
+            d10.style.background= 'white';
+      d10.style.border= '1px solid red';
+      d10.innerHTML = getin;
             };
     
 
@@ -373,8 +401,9 @@ else {
     { }
                                        
     else { 
-        d11.style.background= 'red';
-        d11.style.border= '1px solid rgb(0, 0, 0)';
+      d11.style.background= 'white';
+      d11.style.border= '1px solid red';
+      d11.innerHTML = getin;
         };
 
 // ESTANTERIA OFICINA 3 FIN //
@@ -389,8 +418,9 @@ if (  getin!="860" & getin!="1905" & getin!="1007" & getin!="1683" & getin!="200
     { }
                                        
     else { 
-        a20.style.background= 'red';
-        a20.style.border= '1px solid rgb(0, 0, 0)';
+      a20.style.background= 'white';
+      a20.style.border= '1px solid red';
+      a20.innerHTML = getin;
         };
 
 // ESTANTERIA FONDO FINAL //
