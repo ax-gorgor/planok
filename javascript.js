@@ -102,9 +102,12 @@ if (getin!="2546" & getin!="1308" & getin!="1426" & getin!="1201"  /* & getin!="
 
 { }
 
-else { b1.style.background= 'white';
+else {/* b1.style.background= 'white';
        b1.style.border= '1px solid red';
+       b1.innerHTML = getin;*/
        b1.innerHTML = getin;
+       b1.style.fontSize= '24px';
+       b1.style.opacity= 'none';
       }
 
  
@@ -116,9 +119,12 @@ if (getin!="1306" & getin!="2509" & getin!="2549" & getin!="1335" /* & getin!="1
 
 { }
 
-else { b2.style.background= 'white';
+else { /*b2.style.background= 'white';
        b2.style.border= '1px solid red';
+       b2.innerHTML = getin;*/
        b2.innerHTML = getin;
+       b2.style.fontSize= '24px';
+       b2.style.opacity= 'none';
       }
 
 
@@ -126,9 +132,14 @@ if (getin!="2535" & getin!="1865" & getin!="1203" /*& getin!="1306" & getin!="15
 
 { }
       
-else { b3.style.background= 'white';
+else { /*b3.style.background= 'white';
        b3.style.border= '1px solid red';
+       b3.innerHTML = getin;*/
        b3.innerHTML = getin;
+      b3.style.fontSize= '24px';
+      b3.style.opacity= 'none';
+
+      b3.innerHTML = getin;
       }
 
  
@@ -245,8 +256,10 @@ if (  getin!="1157" & getin!="1151" & getin!="2545" & getin!="1544" )
 { }
       
 else { 
-      a100.style.background= 'white';
+      /*a100.style.background= 'white';
       a100.style.border= '1px solid red';
+      a100.innerHTML = getin;*/
+      a100.style.fontSize= '24px';
       a100.innerHTML = getin;
       };
 
@@ -257,8 +270,10 @@ if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="11
 { }
             
  else { 
-      a110.style.background= 'white';
+      /*a110.style.background= 'white';
       a110.style.border= '1px solid red';
+      a110.innerHTML = getin;*/
+      a110.style.fontSize= '24px';
       a110.innerHTML = getin;
      };
 
@@ -270,8 +285,10 @@ if (  getin!="1173" & getin!="2017" & getin!="2016" & getin!="1002" &
 { }
             
 else { 
-      a120.style.background= 'white';
-      a120.style.border= '1px solid red';
+     /* a120.style.background= 'white';
+      a120.style.border= '1px solid red';*/
+      a120.innerHTML = getin;
+      a120.style.fontSize= '24px';
       a120.innerHTML = getin;
      };
 
@@ -280,8 +297,11 @@ if (  getin!="2407" & getin!="2411" & getin!="2508")
 { }
                  
 else { 
-      a130.style.background= 'white';
+      /*a130.style.background= 'white';
       a130.style.border= '1px solid red';
+       */
+      a130.innerHTML = getin;
+      a130.style.fontSize= '24px';
       a130.innerHTML = getin;
      };
 
@@ -292,23 +312,28 @@ if (  getin!="1332" & getin!="1305" & getin!="1308"
 { }
                       
 else { 
-      a140.style.background= 'white';
+      /*a140.style.background= 'white';
       a140.style.border= '1px solid red';
+      a140.innerHTML = getin;*/
+      a140.style.fontSize= '24px';
       a140.innerHTML = getin;
      };
 
 if (  getin!="1104" & getin!="1005" & getin!="1122" & getin!="1135"
-      & getin!="1103")
+      & getin!="1103" & getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
+      getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
+      getin!="2014" & getin!="1086" & getin!="2022")
  
 { }
                            
 else { 
-      a150.style.background= 'white';
-      a150.style.border= '1px solid red';
+      /*a150.style.background= 'white';
+      a150.style.border= '1px solid red';*/
+      a150.style.fontSize= '24px';
       a150.innerHTML = getin;
     };
 
-    if (  getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
+   /* if (  getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
           getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
           getin!="2014" & getin!="1086" & getin!="2022"
           )
@@ -319,7 +344,7 @@ else {
       a160.style.background= 'white';
       a160.style.border= '1px solid red';
       a160.innerHTML = getin;
-        };
+        };*/
 
 // ESTANTERIA IZQUIERDA FIN //
 
