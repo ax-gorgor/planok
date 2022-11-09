@@ -31,12 +31,12 @@ body{background-color: #ededed;}
 
 .fondo{width: 20%;
        height: 3%;
-       background: rgb(206, 206, 206);
+       background: rgb(255, 255, 255);
        margin-left: 30%;
       margin-top: 1%;
       position: absolute;
       border-radius: 8%;
-      border: 2px solid rgb(0, 0, 0);
+      border: 0px solid rgb(0, 0, 0);
      }
 
 .banio{width: 30%;
@@ -65,22 +65,23 @@ body{background-color: #ededed;}
 
 .estanteriaDerecha{width: 6%;
                    height: 84%;
-                   background: rgb(218, 218, 218);
+                   background: rgb(255, 255, 255);
                    margin-left: 90%;
                    margin-top: 8%;
                    position: absolute;
                    border-radius: 2%;
-                   border: 2px solid rgb(0, 0, 0);
+                   border: 0px solid rgb(0, 0, 0);
                   }
 
 .estanteriaDerecha2{width: 6%;
                   height: 6%;
-                  background: rgb(218, 218, 218);
+                  background: rgb(255, 255, 255);
+                  opacity: 10%;
                   margin-left: 90%;
                   margin-top: 138%;
                   position: absolute;
                   border-radius: 2%;
-                  border: 2px solid rgb(0, 0, 0);
+                  border: 0px solid rgb(0, 0, 0);
                   }
 
 
@@ -103,103 +104,103 @@ body{background-color: #ededed;}
 
   .estanteriaIzquierda{width: 6%;
     height: 92%;
-    background: rgb(218, 218, 218);
+    background: rgb(255, 255, 255);
     margin-left: 2%;
     margin-top: 8%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
 
    .estanteriaOficina1{width: 60%;
     height: 4%;
-    background: rgb(209, 209, 209);
+    background: rgb(255, 255, 255);
     margin-left: 12%;
     margin-top: 120%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
 
    .estanteriaOficina2{width: 60%;
     height: 4%;
-    background: rgb(209, 209, 209);
+    background: rgb(255, 255, 255);
     margin-left: 12%;
     margin-top: 130%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
 
    .estanteriaOficina3{width: 60%;
     height: 4%;
-    background: rgb(209, 209, 209);
+    background: rgb(255, 255, 255);
     margin-left: 12%;
     margin-top: 140%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
   
   
    .mesaPrincipalDerecha1 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 78%;
     margin-top: 40%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
      
    }
    .mesaPrincipalDerecha2 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 78%;
     margin-top: 75%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
 
    .mesaPrincipalDerecha3 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 78%;
     margin-top: 110%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
  
  .mesaPrincipalIzquierda1 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 2%;
     margin-top: 40%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
      
    }
    .mesaPrincipalIzquierda2 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 2%;
     margin-top: 75%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
 
    .mesaPrincipalIzquierda3 {width: 20%;
     height: 20%;
-    background: rgb(184, 184, 184);
+    background: rgb(255, 255, 255);
     margin-left: 2%;
     margin-top: 110%;
     position: absolute;
     border-radius: 2%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 0px solid rgb(0, 0, 0);
    }
  
 .fuente{font-size: 0px;
