@@ -111,7 +111,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if (getin!="2546" & getin!="1308" & getin!="1426" & getin!="1201"  /* & getin!="1552"*/ )  
+if (getin!="2546" & getin!="1426" & getin!="1201"  /* & getin!="1552"*/ )  
 
 { }
 
