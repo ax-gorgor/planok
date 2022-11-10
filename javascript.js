@@ -300,6 +300,7 @@ else {
       a100.style.border= '1px solid red';
       a100.innerHTML = getin;*/
       a100.style.fontSize= '24px';
+      a100.style.color= 'red';
       a100.innerHTML = getin;
       };
 
@@ -314,6 +315,7 @@ if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="11
       a110.style.border= '1px solid red';
       a110.innerHTML = getin;*/
       a110.style.fontSize= '24px';
+      a110.style.color= 'red';
       a110.innerHTML = getin;
      };
 
@@ -329,6 +331,7 @@ else {
       a120.style.border= '1px solid red';*/
       a120.innerHTML = getin;
       a120.style.fontSize= '24px';
+      a120.style.color= 'red';
       a120.innerHTML = getin;
      };
 
@@ -342,6 +345,7 @@ else {
        */
       a130.innerHTML = getin;
       a130.style.fontSize= '24px';
+      a130.style.color= 'red';
       a130.innerHTML = getin;
      };
 
@@ -356,6 +360,7 @@ else {
       a140.style.border= '1px solid red';
       a140.innerHTML = getin;*/
       a140.style.fontSize= '24px';
+      a140.style.color= 'red';
       a140.innerHTML = getin;
      };
 
@@ -370,6 +375,7 @@ else {
       /*a150.style.background= 'white';
       a150.style.border= '1px solid red';*/
       a150.style.fontSize= '24px';
+      a150.style.color= 'red';
       a150.innerHTML = getin;
     };
 
