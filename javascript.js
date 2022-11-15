@@ -47,8 +47,9 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="2226" & getin!="1282" &  getin!="1106" & getin!="2506" 
-     & getin!="2521" & getin!="2542" )  
+if (getin!="2226" & getin!="anita" & getin!="1282" & getin!="tapiz" & getin!="1106" & getin!="2506" 
+   & getin!="allie" & getin!="chile" & getin!="mirta" & getin!="2521" & getin!="carol" & getin!="2542"
+   & getin!="lili")  
 
 { }
 
@@ -69,7 +70,8 @@ else { /*a1.style.background= 'white';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="2223" & getin!="1309" & getin!="2209" & getin!="1323" & getin!="1671") //mesaPrincipalDerecha2
+ if (  getin!="2223" & getin!="cala" & getin!="1309" & getin!="2209" & getin!="antonella" & getin!="1323" & getin!="mariana"
+       & getin!="paisana" & getin!="1671") //mesaPrincipalDerecha2
  
 { }
 
@@ -322,7 +324,8 @@ if (  getin!="1440" & getin!="1442" & getin!="2515" & getin!="1714" & getin!="11
 
 if (  getin!="1173" & getin!="2017" & getin!="2016" & getin!="1002" &
       getin!="1010" & getin!="1082" & getin!="1798" & getin!="2007" & getin!="1676" & getin!="1662"
-      & getin!="2007" & getin!="850" & getin!="851" & getin!="2541" & getin!="1321" & getin!="2021" )
+      & getin!="2007" & getin!="argentina" & getin!="850" & getin!="851" & getin!="2541" & getin!="1321" & getin!="2021"
+       )
  
 { }
             
