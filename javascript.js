@@ -179,7 +179,7 @@ else {
       a10.innerHTML = getin;
       };
 
-if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435")
+if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435" & getin!="1010")
  
 { }
             
