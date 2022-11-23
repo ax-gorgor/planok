@@ -113,7 +113,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if (getin!="2546" & getin!="1426" & getin!="1201" & getin!="1439" )  
+if (getin!="2536" & getin!="1426" & getin!="1201" & getin!="1439" )  
 
 { }
 
@@ -179,7 +179,8 @@ else {
       a10.innerHTML = getin;
       };
 
-if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435" & getin!="1010")
+if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435" & getin!="1010"
+      & getin!="2546")
  
 { }
             
@@ -356,7 +357,7 @@ else {
 
 if (  getin!="1332" & getin!="1305" & getin!="1308"
        & getin!="2540" & getin!="1320" & getin!="2508" & getin!="2522"
-       & getin!="1539")
+       & getin!="1539" & getin!="1104" & getin!="1103" )
  
 { }
                       
@@ -369,8 +370,8 @@ else {
       a140.innerHTML = getin;
      };
 
-if (  getin!="1104" & getin!="1005" & getin!="1122" & getin!="1135"
-      & getin!="1103" & getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
+if (  getin!="1005" & getin!="1122" & getin!="1135"
+       & getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
       getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
       getin!="2014" & getin!="1086" & getin!="2022")
  
