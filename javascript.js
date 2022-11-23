@@ -47,7 +47,7 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="2226" & getin!="anita" & getin!="1282" & getin!="tapiz" & getin!="1106" & getin!="2506" 
+if (getin!="2226" & getin!="anita" & getin!="1282" & getin!="tapiz" & getin!="2506" 
    & getin!="allie" & getin!="chile" & getin!="mirta" & getin!="2521" & getin!="carol" & getin!="2542"
    & getin!="lili")  
 
@@ -198,7 +198,7 @@ if (  getin!="2532" & getin!="2536" & getin!="1536" & getin!="1435" & getin!="10
 if (  getin!="1548" & getin!="1550" & getin!="2234"
       & getin!="2231" &   getin!="1327" & getin!="2244"
       & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" & getin!="1057"
-      & getin!="2043" & getin!="2010" & getin!="1538")
+      & getin!="2043" & getin!="2010" & getin!="1538" & getin!="1106")
  
 { }
             
