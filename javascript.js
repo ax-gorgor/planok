@@ -71,7 +71,7 @@ else { /*a1.style.background= 'white';
 
 
  if (  getin!="2223" & getin!="cala" & getin!="1309" & getin!="2209" & getin!="antonella" & getin!="1323" & getin!="mariana"
-       & getin!="paisana" & getin!="1671") //mesaPrincipalDerecha2
+       & getin!="paisana") //mesaPrincipalDerecha2
  
 { }
 
@@ -373,7 +373,7 @@ else {
 if (  getin!="1005" & getin!="1122" & getin!="1135"
        & getin!="1091" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
       getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
-      getin!="2014" & getin!="1086" & getin!="2022")
+      getin!="2014" & getin!="1086" & getin!="2022" & getin!="1671")
  
 { }
                            
